@@ -10,4 +10,6 @@
     border-left: 60px solid rgb(245, 245, 175);
     border-right: 60px solid transparent;
 } */
-
+area {
+    color: aquamarine;
+}
